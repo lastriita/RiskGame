@@ -1,0 +1,42 @@
+Alaska;42;111;Kamchatka;North West Territory;Alberta;;;
+Alberta;127;162;Alaska;North West Territory;Ontario;Western United States;;
+North West Territory;140;104;Alaska;Ontario;Alberta;Greenland;;
+Greenland;325;71;North West Territory;Iceland;Ontario;Quebec;;
+Ontario;186;136;Greenland;Quebec;North West Territory;Alberta;Western United States;Eastern United States
+Quebec;263;177;Greenland;Ontario;Eastern United States;;;
+Western United States;131;238;Alberta;Ontario;Eastern United States;Central America;;
+Eastern United States;194;273;Western United States;Central America;Ontario;Quebec;;
+Central America;114;325;Venzuela;Eastern United States;Western United States;;;
+Venzuela;213;390;Central America;Brazil;Peru;;;
+Brazil;282;453;Venzuela;Peru;Argentina;North Africa;;
+Peru;232;490;Brazil;Argentina;Venzuela;;;
+Argentina;237;558;Peru;Brazil;;;;
+North Africa;444;440;Brazil;Egypt;East Africa;Congo;Southern Europe;
+Egypt;522;406;Southern Europe;North Africa;Middle East;East Africa;;
+East Africa;580;489;Egypt;North Africa;Madagascar;Congo;South Africa;
+Congo;525;522;East Africa;North Africa;South Africa;;;
+South Africa;525;615;Congo;East Africa;Madagascar;;;
+Madagascar;645;603;East Africa;South Africa;;;;
+Western Europe;426;312;North Africa;Great Britain;Southern Europe;Northen Europe;;
+Great Britain;380;220;Western Europe;Northen Europe;Scandinavia;Iceland;;
+Iceland;410;136;Great Britain;Scandinavia;Greenland;;;
+Northen Europe;481;240;Great Britain;Scandinavia;Western Europe;Ukraine;Southern Europe;
+Southern Europe;490;297;Ukraine;Northen Europe;Western Europe;Middle East;Egypt;
+Ukraine;580;173;Scandinavia;Northen Europe;Southern Europe;Middle East;Afghanistan;Ural
+Scandinavia;510;129;Ukraine;Iceland;Northen Europe;;;
+Middle East;600;347;Southern Europe;Ukraine;India;Afghanistan;Egypt;East Africa
+India;718;360;Middle East;Afghanistan;China;Slam;;
+Slam;800;390;India;China;Indonesia;;;
+China;784;306;India;Slam;Afghanistan;Ural;Siberia;Mongolia
+Afghanistan;663;251;Ukraine;China;Ural;India;Middle East;
+Mongolia;810;237;Japan;China;Irkutsk;Kamchatka;Siberia;
+Ural;679;164;Ukraine;Siberia;Afghanistan;China;;
+Siberia;736;110;Ural;Yakust;Irkutsk;China;Mongolia;
+Yakust;815;81;Siberia;Irkutsk;Kamchatka;;;
+Irkutsk;807;170;Siberia;Yakust;Mongolia;Kamchatka;;
+Kamchatka;904;83;Yakust;Irkutsk;Japan;Mongolia;Alaska;
+Japan;918;252;Kamchatka;Mongolia;;;;
+Indonesia;817;504;Slam;New Guinea;Western Australia;;;
+New Guinea;910;486;Indonesia;Western Australia;Eastern Australia;;;
+Western Australia;820;607;New Guinea;Eastern Australia;Indonesia;;;
+Eastern Australia;947;590;New Guinea;Western Australia;;;;
